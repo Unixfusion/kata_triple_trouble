@@ -15,3 +15,4 @@ TripleDouble(1222345, 12345) == 0 // num1 has straight triple 2s but num2 has on
 TripleDouble(12345, 12345) == 0
 
 TripleDouble(666789, 12345667) == 1
+P.S. there is need to be 3/2 OR MORE to pass
